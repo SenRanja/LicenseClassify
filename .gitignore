@@ -17,3 +17,6 @@
 build/
 dist/
 MANIFEST
+
+# 删除测试文件
+test.py
